@@ -1,7 +1,5 @@
 # Lyneth Labs
 
-> Agentic Smart Contract Security Auditing
-
 ## About
 
 Lyneth Labs is building the future of smart contract security through AI-powered auditing solutions. We make professional-grade security accessible to all developers, from individual developers to enterprise teams.
@@ -38,10 +36,6 @@ Our flagship smart contract auditing platform featuring:
 - 🌐 **Website**: [lyneth.xyz](https://lyneth.xyz)
 - 🐦 **Twitter**: [@lynethlabs](https://twitter.com/lynethlabs)
 - 📧 **Contact**: [audit.lyneth.xyz/contact](https://audit.lyneth.xyz/contact)
-
-## Open Source
-
-We believe in the power of open source and are committed to contributing to the blockchain security ecosystem.
 
 ---
 
