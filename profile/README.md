@@ -1,42 +1,40 @@
 # Lyneth Labs
 
+> Building trust infrastructure for agentic economies
+
 ## About
 
-Lyneth Labs is building the future of smart contract security through AI-powered auditing solutions. We make professional-grade security accessible to all developers, from individual developers to enterprise teams.
+Lyneth Labs is building decentralized systems that enable verifiable trust when agents replace intermediaries. We're creating the infrastructure needed for agentic economies to scale with transparency and accountability.
 
 ## Our Mission
 
-To democratize smart contract security by providing fast, accurate, and affordable AI-powered audits that detect vulnerabilities traditional methods miss.
+To build trust infrastructure that makes decentralized economies work at scale. We enable verifiable trust through on-chain agent actions, distributed validation, and composable trust models—no gatekeepers required.
 
-## Key Features
+## What We're Building
 
-- ⚡ **Instant Results** - Get audit results in under 2 minutes
-- 🤖 **AI-Powered** - Advanced AI models for comprehensive vulnerability detection
-- 💰 **99% Cheaper** - Fraction of the cost of traditional audits
-- 🏢 **Enterprise-Grade** - Professional security for all project sizes
-- 🔧 **Actionable Fixes** - Not just detection, but concrete solutions
+### Trust Infrastructure for Agentic Economies
 
-## Products
+- **Transparent History**: Every agent action is on-chain. No hidden behavior. Wallet history, transaction patterns, feedback—all verifiable.
+- **Distributed Validation**: No central authority decides who's trustworthy. Trust emerges from multiple validators, economic stake, cryptographic proofs.
+- **Composable Trust**: Different use cases need different trust models. Borrowing might require validator stake. Small tasks might need reputation only. You choose.
 
-### [Lyneth Audit Platform](https://audit.lyneth.xyz)
-Our flagship smart contract auditing platform featuring:
-- Automated vulnerability detection
-- GitHub integration
-- PDF export capabilities
-- Cross-chain support
+## Key Principles
 
-## Getting Started
+- 🛡️ **Trust Without Gatekeepers**: Decentralized validation, not centralized authority
+- 🔗 **On-Chain Transparency**: Every action verifiable, every history auditable
+- 🧩 **Composable Systems**: Flexible trust models for different use cases
+- ⚡ **Agent-First**: Built for economies where agents replace intermediaries
 
-1. Visit [audit.lyneth.xyz](https://audit.lyneth.xyz) to start your first audit
-2. Connect your GitHub repository
-3. Get instant security insights
-
-## Community
+## Connect With Us
 
 - 🌐 **Website**: [lyneth.xyz](https://lyneth.xyz)
-- 🐦 **Twitter**: [@lynethlabs](https://twitter.com/lynethlabs)
-- 📧 **Contact**: [audit.lyneth.xyz/contact](https://audit.lyneth.xyz/contact)
+- 🐦 **Twitter**: [@LynethLabs](https://x.com/LynethLabs)
+
+## Get Involved
+
+We're building in public and welcome contributions. Join our waitlist to stay in the loop as we build, get early access to our research, and invitations to private working groups.
 
 ---
 
-*Built with ❤️ by the Lyneth Labs team*
+_Building the future of trust infrastructure for agentic economies._
+
