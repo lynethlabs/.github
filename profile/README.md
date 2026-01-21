@@ -27,7 +27,7 @@ To build trust infrastructure that makes decentralized economies work at scale. 
 
 ## Connect With Us
 
-- 🌐 **Website**: [lyneth.xyz](https://lyneth.xyz)
+- 🌐 **Website**: [lyneth.xyz](https://lyneth.ai)
 - 🐦 **Twitter**: [@LynethLabs](https://x.com/LynethLabs)
 
 ## Get Involved
